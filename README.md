@@ -14,12 +14,12 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository to your local machine:**
 
    ```bash
-   git clone https://github.com/sujit-mandal/Neutron-Ltd-Server.git
+   git clone https://github.com/sujit-mandal/Contact-Pro-Server.git
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd contact-pro
+   cd Contact-Pro-Server
 3. **Install the dependencies:**
 
    ```bash
