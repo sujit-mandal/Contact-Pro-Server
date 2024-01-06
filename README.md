@@ -14,7 +14,7 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository to your local machine:**
 
    ```bash
-   git clone https://github.com/your-username/contact-pro.git
+   git clone https://github.com/sujit-mandal/Neutron-Ltd-Server.git
 
 2. **Navigate to the project directory:**
 
